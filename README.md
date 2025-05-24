@@ -1,7 +1,7 @@
 # hm_dianping
 hm_dianping released by heima in 2022 aboutd redis
 
-开发语言：Java \n
+开发语言：Java
 技术栈：Redis + Redisson + Spring Boot + Caffeine + 分布式锁 + RabbitMQ
 
 bilibili黑马点评项目
